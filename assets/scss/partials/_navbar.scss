@@ -1,0 +1,66 @@
+header{
+    background-image: url(https://megaone.acrothemes.com/cafe/images/banner-image.jpg);
+    height: 80vh;
+   
+nav{
+    
+    img{
+        background-color: black;
+    }
+    ul{
+        a{
+            text-decoration: none;
+            color: black;
+        }
+        li{
+            display: inline-block;
+            padding: 1rem;
+        }
+    }
+} 
+}
+.imgul{
+    background-color: white;
+    display: flex;
+    margin-top: 50px;
+  
+}
+.row ul {
+    margin-left: 150px;
+}
+.red{
+    color: red;
+}
+nav{
+    svg{
+        margin-top: 15px;
+    }
+}
+header{
+    .ss1980{
+        width: 350px;
+        height: 70px;
+        background-color: black;
+        text-align: center;
+        margin: 100px auto;
+        padding:15px ;
+}
+    .bestcafe{
+        width: 400px;
+        height: 80px;
+        background-color: orangered;
+        text-align: center;
+        padding:15px ;
+        margin:0 auto;
+        margin-top: -100px;
+    }
+    .learn-more{
+        width: 120px;
+        height: 50px;
+        border: 0;
+        border-radius: 20vh;
+        margin:0 auto;
+        text-align: center;
+        margin: 20px 630px;
+    }
+}
